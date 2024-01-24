@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Door", "Door.csproj", "{21CA0A5E-E039-456C-BD2F-BBD73C95578A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoorFunctionsLibrary", "..\DoorFunctionsLibrary\DoorFunctionsLibrary.csproj", "{AF42FF81-DFF7-4A09-9999-060A38F84C83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21CA0A5E-E039-456C-BD2F-BBD73C95578A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21CA0A5E-E039-456C-BD2F-BBD73C95578A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21CA0A5E-E039-456C-BD2F-BBD73C95578A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21CA0A5E-E039-456C-BD2F-BBD73C95578A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF42FF81-DFF7-4A09-9999-060A38F84C83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF42FF81-DFF7-4A09-9999-060A38F84C83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF42FF81-DFF7-4A09-9999-060A38F84C83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF42FF81-DFF7-4A09-9999-060A38F84C83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54B4C735-D0AF-48C8-B7BE-6C878BA96D53}
+	EndGlobalSection
+EndGlobal
